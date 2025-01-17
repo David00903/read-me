@@ -6,4 +6,4 @@ Este fue un trabajo *conjunto* con otras dos personas en las que nos encargamos 
 
 ## Partes del trabajo
 \
-Cada integrante nos encargamos de hacer una sección del apartado de **_CSS_** e individualmente del **_HTML_**.
+Cada integrante nos encargamos de hacer una sección del apartado de **_CSS_** e individualmente del **_HTML_** para organizar el trabajo.
