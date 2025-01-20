@@ -8,9 +8,14 @@ Este fue un trabajo *conjunto* con otras dos personas en las que nos encargamos 
 \
 Cada integrante nos encargamos de hacer una sección del apartado de **_CSS_** e individualmente del **_HTML_** para organizar el trabajo.
 
+
+|David             | Angely            | Jorge            |
+|------------------|-------------------|------------------|
+|Formularios y CSS | Menú Este y oeste |Menu Norte y Sur  |
+  
+  [PDF del Trabajo](Restauración/Proyecto-Web-Alumnos.pdf) 
+
 [Pagina del restaurante](Restauración/Index.html)
 
-![flan](https://github.com/user-attachments/assets/1cb469e6-80d9-4031-8d89-5d7eaebc0043)
-
-
+<!-- Como los enlaces principales tienen espacios y no estan unidos por guiones o por cualquier cosa los enlaces darían "Not Found"-->
 ![un flan](Restauración/img/flan.jpg)
